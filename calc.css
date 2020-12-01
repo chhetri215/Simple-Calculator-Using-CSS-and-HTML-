@@ -1,9 +1,9 @@
 body {
-	background-image: url(abc.jpg);
+	background-image: url(sid.jpg);
 	background-color: #424242;
 	font-family: Tahoma;
 	background-repeat:no-repeat;
-	background-size: 300px 100px;
+	background-size:cover;
 }
 
 .container {
